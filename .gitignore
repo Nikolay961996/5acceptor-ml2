@@ -1,0 +1,10 @@
+env
+.idea
+
+__pycache__
+*.pyc
+
+archived
+*.7z
+answer.txt
+Готовые проекты
